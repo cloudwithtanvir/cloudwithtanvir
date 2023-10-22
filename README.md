@@ -25,6 +25,4 @@ Feel free to reach out for exciting opportunities, tech discussions, or just to 
 - [GitHub](https://github.com/cloudwithtanvir)
 
 Let's innovate, collaborate, and make the tech world a better place together! 🚀
-```
 
-You can copy and paste this markdown into your GitHub README.md file. Make sure to modify it as needed to reflect your personal information and style.
