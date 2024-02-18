@@ -3,13 +3,13 @@
 Hello! I'm Tanvir Ahmed , a passionate cloud and DevOps engineer with a strong background in optimizing software release lifecycles. Holding a BSc in Computer Engineering from East-West University, I've embarked on a dynamic journey in the tech world.
 
 ## TECHNOLOGIES AND LANGUAGES
-● Cloud Computing : Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM
-● CI/CD : Jenkins, GitLab CI/CD, Azure Devops, GitHub Action, Codepipeline
-● Infrastructure and Configuration Management : Terraform, CloudFormation, Ansible, Ansible Tower
-● Containerization & Orchestration : Docker, Kubernetes, AKS, EKS, ECS(Fargate)
-● Monitoring & Observability : Prometheus, Grafana, ElasticSearch(ELK stack)
-● Programming & Scripting : Python, Bash, golang , Java, Javascript
-● Others : DevSecOps, Nginx, SSL/TLS, Cloudflare,DNS,GIT, Jfrog, Postman, Linux, Vault, SonarQube, IoT, React, Django,
+- Cloud Computing : Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM
+- CI/CD : Jenkins, GitLab CI/CD, Azure Devops, GitHub Action, Codepipeline
+- Infrastructure and Configuration Management : Terraform, CloudFormation, Ansible, Ansible Tower
+- Containerization & Orchestration : Docker, Kubernetes, AKS, EKS, ECS(Fargate)
+- Monitoring & Observability : Prometheus, Grafana, ElasticSearch(ELK stack)
+- Programming & Scripting : Python, Bash, golang , Java, Javascript
+- Others : DevSecOps, Nginx, SSL/TLS, Cloudflare,DNS,GIT, Jfrog, Postman, Linux, Vault, SonarQube, IoT, React, Django,
 Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
 
 ## Let's Connect and Collaborate
