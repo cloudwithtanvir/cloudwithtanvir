@@ -1,6 +1,6 @@
 # Tanvir Ahmed - Cloud and DevOps Engineer
 
-Hello! I'm Tanvir Ahmed , a passionate cloud engineer and DevOps specialist with a strong background in optimizing software release lifecycles. Holding a BSc in Computer Engineering from East-West University, I've embarked on a dynamic journey in the tech world.
+Hello! I'm Tanvir Ahmed , a passionate cloud and DevOps engineer with a strong background in optimizing software release lifecycles. Holding a BSc in Computer Engineering from East-West University, I've embarked on a dynamic journey in the tech world.
 
 ## TECHNOLOGIES AND LANGUAGES
 ● Cloud Computing : Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM
