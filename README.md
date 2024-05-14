@@ -16,18 +16,19 @@ Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
 ## CERTIFICATES
 
 ### AWS
-- [AWS Solutions Architect – Associate](https://www.credly.com/badges/5b6dd2a4-d2dd-4e21-8dcd-ba58a08b030c) ![AWS Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
-- [AWS Cloud Practitioner](https://www.credly.com/badges/672ac931-09db-46eb-9e5c-93002de810be) ![AWS Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-- [AWS Academy Graduate - Cloud Foundations](https://www.credly.com/badges/7b0951ca-3119-4326-8c10-90473a9d7645) ![AWS Academy Graduate - Cloud Foundations](https://images.credly.com/size/100x100/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
-- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/4c001b78-ad88-465c-8c41-f587da2a603f) ![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/100x100/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)
-- [AWS Knowledge: File Storage](https://www.credly.com/badges/dbb1c689-99a6-444a-af0e-2a6144cb80d9) ![AWS Knowledge: File Storage](https://images.credly.com/size/100x100/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)
+- ![AWS Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+- ![AWS Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+- ![AWS Academy Graduate - Cloud Foundations](https://images.credly.com/size/100x100/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
+- ![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/100x100/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)
+- ![AWS Knowledge: File Storage](https://images.credly.com/size/100x100/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)
 
 ### GitLab
-- [GitLab CI/CD Associate](https://www.credly.com/badges/f7ae4c31-ddbd-462b-885b-ac5345f3f001) ![GitLab CI/CD Associate](https://images.credly.com/size/100x100/images/b751a976-d02e-4698-bbdd-1b0d0af54172/image.png)
-- [GitLab Git Associate](https://www.credly.com/badges/52c9e53f-477b-4b3e-a498-b1e9cc4afc64) ![GitLab Git Associate](https://images.credly.com/size/100x100/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png)
+- ![GitLab CI/CD Associate](https://images.credly.com/size/100x100/images/b751a976-d02e-4698-bbdd-1b0d0af54172/image.png)
+- ![GitLab Git Associate](https://images.credly.com/size/100x100/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png)
 
 ### GitHub
-- [GitHub Foundations](https://www.credly.com/badges/b5f67edc-b252-42a5-ae62-b16b25f7cae3) ![GitHub Foundations](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
+- ![GitHub Foundations](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
+
 
 ## Let's Connect and Collaborate
 
