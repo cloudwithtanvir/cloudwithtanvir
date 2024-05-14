@@ -12,7 +12,6 @@ Hello! I'm Tanvir Ahmed , a passionate cloud and DevOps engineer with a strong b
 - Others : DevSecOps, Nginx, SSL/TLS, Cloudflare,DNS,GIT, Jfrog, Postman, Linux, Vault, SonarQube, IoT, React, Django,
 Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
 
-
 ## CERTIFICATES
 
 ### AWS
@@ -50,6 +49,7 @@ Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
         <img src="https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png">
     </a>
 </div>
+
 
 
 ## Let's Connect and Collaborate
