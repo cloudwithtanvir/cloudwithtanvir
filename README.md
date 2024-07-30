@@ -4,7 +4,7 @@ Hello! I'm Tanvir Ahmed , a passionate cloud and DevOps engineer with a strong b
 
 ## TECHNOLOGIES AND LANGUAGES
 - Cloud Computing : Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM
-- CI/CD : Jenkins, GitLab CI/CD, Azure Devops, GitHub Action, Codepipeline
+- CI/CD : Jenkins, GitLab CI/CD, Azure DevOps, GitHub Action, Codepipeline
 - Infrastructure and Configuration Management : Terraform, CloudFormation, Ansible, Ansible Tower
 - Containerization & Orchestration : Docker, Kubernetes, AKS, EKS, ECS(Fargate)
 - Monitoring & Observability : Prometheus, Grafana, ElasticSearch(ELK stack)
