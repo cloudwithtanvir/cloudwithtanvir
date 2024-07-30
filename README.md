@@ -36,10 +36,10 @@ Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
 ### GitLab
 <div style="text-align: right;">
     <a href="https://www.credly.com/badges/f7ae4c31-ddbd-462b-885b-ac5345f3f001" target="_blank">
-        <img src="https://images.credly.com/size/100x100/images/b751a976-d02e-4698-bbdd-1b0d0af54172/image.png">
+        <img src="https://images.credly.com/size/100x100/images/cbfb08bb-74b3-4768-81ac-93c30335cb83/image.png">
     </a>
     <a href="https://www.credly.com/badges/52c9e53f-477b-4b3e-a498-b1e9cc4afc64" target="_blank">
-        <img src="https://images.credly.com/size/100x100/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png">
+        <img src="https://images.credly.com/size/100x100/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png">
     </a>
 </div>
 
