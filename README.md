@@ -16,7 +16,9 @@ Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
 
 ### AWS
 <div style="text-align: right;">
-
+    <a href="https://www.credly.com/badges/5b6dd2a4-d2dd-4e21-8dcd-ba58a08b030c" target="_blank">
+        <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+    </a>
     <a href="https://www.credly.com/badges/672ac931-09db-46eb-9e5c-93002de810be" target="_blank">
         <img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
     </a>
@@ -29,9 +31,6 @@ Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
     <a href="https://www.credly.com/badges/dbb1c689-99a6-444a-af0e-2a6144cb80d9" target="_blank">
         <img src="https://images.credly.com/size/100x100/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png">
     </a>
-    <a href="https://www.credly.com/badges/5b6dd2a4-d2dd-4e21-8dcd-ba58a08b030c" target="_blank">
-        <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
-    </a>    
 </div>
 
 ### GitLab
@@ -64,4 +63,3 @@ Feel free to reach out for exciting opportunities, tech discussions, or just to 
 - [Website](https://www.iamtanvir.xyz/)
 
 Let's innovate, collaborate, and make the tech world a better place together! 
-
