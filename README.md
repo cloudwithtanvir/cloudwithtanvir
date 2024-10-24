@@ -50,6 +50,12 @@ Node.js, MySQL, PostgreSQL, NoSQL Jira, Teams, Slack, Agile etc.
     </a>
 </div>
 
+### Microsoft
+<div style="text-align: right;">
+    <a href="https://learn.microsoft.com/en-us/users/cloudwithtanvir/credentials/180264f33b5f73d6?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure AI Fundamentals Badge" width="100" height="100">
+    </a>
+</div>
 
 
 ## Let's Connect and Collaborate
